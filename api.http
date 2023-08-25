@@ -1,0 +1,9 @@
+### GET FILE
+GET http://localhost:5000/media
+Accept: */*
+Content-Type: */*
+
+### GET NOTES
+GET http://localhost:5000/media/api.http
+Accept: */*
+Content-Type: */*
